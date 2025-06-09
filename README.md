@@ -53,6 +53,8 @@ linkedin-analyzer/
 │   ├── prompts.py          # GPT prompt builder
 │   ├── nodes.py            # LangGraph nodes (chat, summarizer)
 │   └── __init__.py
+├── app/
+│   └── job_descriptions.json
 ├── .env.example            # Example environment variables
 ├── requirements.txt        # Python dependencies
 ├── README.md               # You're reading it
