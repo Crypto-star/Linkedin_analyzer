@@ -55,7 +55,7 @@ linkedin-analyzer/
 │   └── __init__.py
 ├── app/
 │   └── job_descriptions.json
-├── .env.example            # Example environment variables
+├── .env                    # Example environment variables
 ├── requirements.txt        # Python dependencies
 ├── README.md               # You're reading it
 ```
