@@ -5,3 +5,4 @@ openai
 python-dotenv
 apify-client
 typing-extensions
+langchain_openai
