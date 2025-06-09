@@ -1,0 +1,7 @@
+streamlit
+langchain
+langgraph
+openai
+python-dotenv
+apify-client
+typing-extensions
