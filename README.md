@@ -3,7 +3,7 @@
 
 An AI-powered Streamlit application that analyzes LinkedIn profiles, compares them with job descriptions, suggests improvements, and provides career guidance using GPT and LangGraph with memory.
 
-> 🌐 **Live App**: [https://your-deployed-url.streamlit.app](https://your-deployed-url.streamlit.app)
+> 🌐 **Live App**: [[https://linedinagent-learntube.app](https://linkedinagent-learntube.streamlit.app/)]
 
 ---
 
@@ -25,9 +25,9 @@ An AI-powered Streamlit application that analyzes LinkedIn profiles, compares th
 
 ## 📦 Tech Stack
 
-* **Frontend**: [Streamlit](https://streamlit.io/)
+* **Frontend**: 
 * **LLM**: OpenAI `gpt-4o-mini`
-* **Memory & Flow**: [LangGraph](https://github.com/langchain-ai/langgraph)
+* **Memory & Flow**: [LangGraph]
 * **Scraper**: [Apify LinkedIn Scraper](https://apify.com/supreme_coder/linkedin-profile-scraper)
 * **Backend**: Python 3.10+
 
