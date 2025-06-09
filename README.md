@@ -3,7 +3,7 @@
 
 An AI-powered Streamlit application that analyzes LinkedIn profiles, compares them with job descriptions, suggests improvements, and provides career guidance using GPT and LangGraph with memory.
 
-> 🌐 **Live App**: [[https://linedinagent-learntube.app](https://linkedinagent-learntube.streamlit.app/)]
+> 🌐 **Live App**: [[https://linkedinagent-learntube.app](https://linkedinagent-learntube.streamlit.app/)]
 
 ---
 
